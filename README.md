@@ -1,1 +1,1 @@
-# UbuntuCore-
+# UbuntuCore-I am setting up a access point to reach the whole yard using raspi and an old router. I'll write the bride-utils and set up #the access point... #any  woyuld be appriecated. as im new and not sure what is about to be done. Thanks KuMint
